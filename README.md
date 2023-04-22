@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/binhake_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binhake_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/binhake"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binhake" height="30" width="40" /></a>
-<a href="https://fb.com/100055018060508"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binhake" height="30" width="40" /></a>
-<a href="https://instagram.com/binhake_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binhake_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/binhakeツ"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="binhake" height="30" width="40" /></a>
+<a href="https://twitter.com/binhake_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binhake_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/binhake" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binhake" height="30" width="40" /></a>
+<a href="https://fb.com/100055018060508" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binhake" height="30" width="40" /></a>
+<a href="https://instagram.com/binhake_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binhake_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/binhakeツ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="binhake" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

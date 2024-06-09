@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 My Email is **noharashinnosuke07@gmail.com**
 
-- ⚡ Fun fact: **I don't think I'm really good at this profession as people think, passion is not everything.**
+- ⚡ Fact: **I don't think I'm really good at this profession as people think, passion is not everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

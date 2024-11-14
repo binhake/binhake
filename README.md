@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binhake&label=Profile%20views&color=0e75b6&style=flat" alt="binhake" /> </p>
 
-- 👨‍💻 All of my Social Network Information is available in [https://www.google.com/search?q=binhake&ie=UTF-8](https://www.google.com/search?q=binhake&ie=UTF-8)
+- 👨‍💻 All of my Social Network Information is available in [Google Search](https://www.google.com/search?q=binhake&ie=UTF-8)
 
 - 📫 My Email is **noharashinnosuke07@gmail.com**
 

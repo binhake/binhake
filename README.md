@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Binhake ツ</h1>
-<h3 align="center">A sophomore of a college student from Vietnam with a passion for programming.</h3>
+<h3 align="center">A fourth-year university student from Vietnam with a passion for programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binhake&label=Profile%20views&color=0e75b6&style=flat" alt="binhake" /> </p>
 
